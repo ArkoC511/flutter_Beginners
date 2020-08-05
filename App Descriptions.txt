@@ -1,0 +1,5 @@
+The two apps in this folder are Dice Roll and Magic 8 Ball.
+
+Dice Roll - Allows you to generate random dice values using 2 dice. Go ahead, resolve all your ties or just use it when you lose your monopoly dice :)
+
+Magic 8 Ball - In a dilemma over whether you should go to school or not? whether you should make the move or not? This app has got you covered. The Magic 8 Ball generates random unbiased answers to all your questions. However, I wouldn't recommend using it for exams :)
